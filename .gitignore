@@ -8,5 +8,4 @@ terraform.rc
 userdata-jenkins.sh
 userdata-prod.sh
 terraform.tfstate.backup
-deployment.yml
-service.yml
+
